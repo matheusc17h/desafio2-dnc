@@ -1,0 +1,124 @@
+*{
+    
+    font-family: "Montserrat", sans-serif;
+    margin: 0;
+
+
+}
+
+
+
+
+
+
+
+#header {
+
+    background-color: #02A28F;
+    color: #FFFFFF;
+    font-size: 36px;
+    font-weight: 700;
+
+}
+
+#headerititle{
+    padding: 16px 156px;
+}
+
+
+
+
+
+#container {
+    display: grid;
+    grid-template-columns:  30% 30% auto;
+ 
+    justify-content: center;
+      
+}
+
+#container2 {
+    display: grid;
+    grid-template-columns:  50% auto;
+ 
+    justify-content: center;
+      
+}
+
+
+#sidebar{
+    padding: 10px;
+}
+
+#img content{
+    padding: 10px;
+}
+
+
+
+
+
+#cardstitle{
+    background-color: #02A28F;
+    color: #FFFFFF;
+    border-radius: 8px;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 16px 24px;
+  
+    
+
+}
+
+#postspoptitle{
+    background-color: #02A28F;
+    color: #FFFFFF;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 16px 24px;
+    margin-bottom: 15px;
+}
+
+#flex { 
+    display: flex; 
+    gap: 10px;
+}
+
+#categoriastitle {
+
+    background-color: #02A28F;
+    color: #FFFFFF;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 16px 24px;
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
+
+
+.subtitle {
+    color: #02A28F;
+}
+
+#list{
+    row-gap: 10px;
+}
+
+#item{
+    list-style: none;
+    margin-top: 5px;
+   
+}
+
+.footer {
+    background-color: #02A28F;
+    color: #FFFFFF;
+    text-align: center;
+    padding-top: 17px;
+    padding-bottom: 17px;
+
+
+}
+
